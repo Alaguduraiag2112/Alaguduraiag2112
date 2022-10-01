@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @Alaguduraiag2112
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning  HTML,CSS,JAVASCRIPT...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 
+# modal-window
 
-<!---
-Alaguduraiag2112/Alaguduraiag2112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## my first responsive site <a href="https://Alaguduraiag2112.github.io/Alaguduraiag2112/">Link</a>
